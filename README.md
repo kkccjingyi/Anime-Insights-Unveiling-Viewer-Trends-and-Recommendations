@@ -86,7 +86,7 @@ There are 3 tables in the dataset. The following tables explain each feature in 
 ---
 
 ---
-**Refernece**
+##**Refernece**##
 ​
 [1] MyAnimeList, Data Source [Reference](https://myanimelist.net/)
 
