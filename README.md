@@ -85,7 +85,8 @@ There are 3 tables in the dataset. The following tables explain each feature in 
 |4| rating | The rating given by the user to the anime. |
 ---
 ---
-​##**Reference**
+​**Reference**
+
 [1] MyAnimeList, Data Source [Reference](https://myanimelist.net/)
 [2] Anime News Network. [Reference](https://www.animenewsnetwork.com/encyclopedia/people.php?id=150459)
 [3] Nielson, **Streaming claims largest piece of TV viewing pie in July, Nielson**. [Reference](https://www.nielsen.com/insights/2022/streaming-claims-largest-piece-of-tv-viewing-pie-in-july/)
