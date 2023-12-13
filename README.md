@@ -24,8 +24,8 @@ This dataset has been procured from MyAnimeList and the owner in Sajid Uddin. Di
 ​---
 
 **Data Overview**
-
 There are 3 tables in the dataset. The following tables explain each feature in the dataset.
+
 ---
 ​
 **anime_data_2023**
