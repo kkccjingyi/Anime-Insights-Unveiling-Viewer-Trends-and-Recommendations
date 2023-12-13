@@ -1,7 +1,7 @@
 # Anime-Insights-Unveiling-Viewer-Trends-and-Recommendations
 
 
-## Summary
+## Summary ##
 The Anime Insights project offers a comprehensive analysis of the anime viewership landscape, focusing on identifying viewer preferences, demographic trends, and patterns in content consumption. Utilizing extensive datasets from MyAnimeList, the project provides in-depth insights into the diverse and dynamic world of anime.
 
 Our analysis is aimed at empowering streaming companies to refine their recommendation algorithms, thereby offering more personalized and accurate anime suggestions to their diverse user base. By examining various aspects such as genre popularity, viewer demographics, and individual ratings, the project sheds light on the intricate preferences and behaviors of anime enthusiasts.
@@ -9,10 +9,10 @@ Our analysis is aimed at empowering streaming companies to refine their recommen
 Key findings of the project include the identification of popular genres and trends in viewer preferences, understanding the impact of different anime characteristics on viewer choices, and analyzing the effectiveness of existing recommendation systems. These insights are invaluable for streaming services in enhancing viewer engagement and satisfaction, as well as for anime producers and studios in anticipating market trends and tailoring their content accordingly.
 
 In conclusion, the Anime Insights project serves as a vital resource for anyone interested in the evolving landscape of anime viewership and its implications for content creation and distribution in the streaming era.
+
 ​
 **Authors**: Kunjingyi Chen, Aryan Kumar, Mauro Wang, Tanvi Sheth, Pritam Pandit
 **Date**: 12/12/2023
-​
 ​
 ---
 ​
