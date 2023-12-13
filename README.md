@@ -21,7 +21,8 @@ In conclusion, the Anime Insights project serves as a vital resource for anyone 
 
 
 This dataset has been procured from MyAnimeList and the owner in Sajid Uddin. Direct access link here.
-​
+​---
+
 ** Data Overview **
 ​
 There are 3 tables in the dataset. The following tables explain each feature in the dataset.
