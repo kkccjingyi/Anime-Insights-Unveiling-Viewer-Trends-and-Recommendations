@@ -11,7 +11,7 @@ Key findings of the project include the identification of popular genres and tre
 In conclusion, the Anime Insights project serves as a vital resource for anyone interested in the evolving landscape of anime viewership and its implications for content creation and distribution in the streaming era.
 
 ​
-##**Authors**: Kunjingyi Chen, Aryan Kumar, Mauro Wang, Tanvi Sheth, Pritam Pandit##
+**Authors**: Kunjingyi Chen, Aryan Kumar, Mauro Wang, Tanvi Sheth, Pritam Pandit##
 **Date**: 12/12/2023
 ​
 ---
