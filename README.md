@@ -12,8 +12,8 @@ In conclusion, the Anime Insights project serves as a vital resource for anyone 
 
 ​
 **Authors**: Kunjingyi Chen, Aryan Kumar, Mauro Wang, Tanvi Sheth, Pritam Pandit
+
 **Date**: 12/12/2023
-​
 ---
 ​
 **Data Source**
